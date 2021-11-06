@@ -15,7 +15,7 @@ const MeetupItem = (props) => {
         </div>
         <div className={classes.actions}>
           <button>Add to Favorites</button>
-        </div>{" "}
+        </div>
       </Card>
     </li>
   );
